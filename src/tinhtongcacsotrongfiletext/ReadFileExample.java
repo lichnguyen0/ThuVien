@@ -37,6 +37,6 @@ public class ReadFileExample {
             System.err.println("Fie không tồn tại or nội dung có lỗi!");
         }
 
-        }
     }
+}
 
